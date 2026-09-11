@@ -1,6 +1,8 @@
+import Medicine from "../components/Medicine"
+
 const Dashboard = () => {
     return <>
-        <h1>welcome to dashboard</h1>
+        <Medicine />
     </>
 }
 export default Dashboard
